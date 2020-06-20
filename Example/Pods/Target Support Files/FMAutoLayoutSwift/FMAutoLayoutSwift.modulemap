@@ -1,0 +1,6 @@
+framework module FMAutoLayoutSwift {
+  umbrella header "FMAutoLayoutSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

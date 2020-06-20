@@ -1,0 +1,16 @@
+PODS:
+  - FMAutoLayoutSwift (0.1.0)
+
+DEPENDENCIES:
+  - FMAutoLayoutSwift (from `../`)
+
+EXTERNAL SOURCES:
+  FMAutoLayoutSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMAutoLayoutSwift: 58db0e685ab84992188b3abd759d5cb55009e6b0
+
+PODFILE CHECKSUM: bdd971927c02a37fa8536f9115ecd3ccc9d38627
+
+COCOAPODS: 1.9.2

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FMAutoLayoutSwift_Example' do
+  pod 'FMAutoLayoutSwift', :path => '../'
+
+  target 'FMAutoLayoutSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
